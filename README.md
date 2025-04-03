@@ -92,7 +92,7 @@ Dưới đây là mô tả về cấu trúc thư mục của dự án:
 2. **Hướng dẫn cài đặt**:
    - Cloning repository:
      ```bash
-     git clone https://github.com/yourusername/BlueMoon-Project.git
+     git clone https://github.com/thanhsonnee/KTPM-nhom24.git
      ```
    - Cài đặt các phụ thuộc (nếu có) và cấu hình cơ sở dữ liệu.
    - Chạy phần mềm trên môi trường phát triển Java.
@@ -101,5 +101,4 @@ Dưới đây là mô tả về cấu trúc thư mục của dự án:
 
 ### Liên hệ
 
-- **Người quản lý dự án**: Nguyễn Văn A
-- **Email**: example@email.com
+- **Email**: vudo22555@gmail.com
